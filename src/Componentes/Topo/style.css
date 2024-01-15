@@ -1,0 +1,25 @@
+nav {
+    padding: 10px 15px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+nav img{
+    width: 150px;
+}
+
+nav a{
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+    margin: 0 5px;
+
+}
+
+
+
